@@ -1,0 +1,22 @@
+{
+  "name": "preprocessor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "preprocessor.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsc && node preprocessor.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "abstract-syntax-tree": "^2.20.6",
+    "jmespath": "^0.16.0",
+    "prompts": "^2.4.2"
+  },
+  "devDependencies": {
+    "@types/jmespath": "^0.15.0",
+    "@types/node": "^18.11.18",
+    "typescript": "^4.9.4"
+  }
+}

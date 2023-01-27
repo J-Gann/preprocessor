@@ -1,0 +1,70 @@
+[
+    {
+        "id": 1234,
+        "content": [
+            "certificate"
+        ],
+        "tags": [
+            "language:de"
+        ],
+        "structures": [
+            {
+                "mimetype": "application/json",
+                "schemas": [
+                    "Verifiable Credential",
+                    "Verifiable Presentation"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3413,
+        "content": [
+            "vaccination"
+        ],
+        "tags": [
+            "language:de"
+        ],
+        "structures": [
+            {
+                "mimetype": "application/json",
+                "schemas": [
+                    "xschule"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4265,
+        "content": [
+            "vaccination"
+        ],
+        "tags": [
+            "language:de",
+            "language:en"
+        ],
+        "structures": [
+            {
+                "mimetype": "application/json",
+                "schemas": [
+                    "https://id.uvci.eu/DCC.Types.schema.json"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8567,
+        "content": [
+            "receipt"
+        ],
+        "tags": [
+            "language:de"
+        ],
+        "structures": [
+            {
+                "mimetype": "application/pdf",
+                "schemas": []
+            }
+        ]
+    }
+]
