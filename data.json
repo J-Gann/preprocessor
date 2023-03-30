@@ -1,11 +1,12 @@
 [
     {
         "id": 1234,
-        "content": [
-            "certificate"
-        ],
         "tags": [
-            "language:de"
+            "content:x.edu.de.higher.degree.bachelor.ofScience",
+            "language:de",
+            "usage:public",
+            "country:de",
+            "status:active"
         ],
         "structures": [
             {
@@ -19,10 +20,8 @@
     },
     {
         "id": 3413,
-        "content": [
-            "vaccination"
-        ],
         "tags": [
+            "content:x.edu.de.higher.degree",
             "language:de"
         ],
         "structures": [
@@ -36,10 +35,8 @@
     },
     {
         "id": 4265,
-        "content": [
-            "vaccination"
-        ],
         "tags": [
+            "content:x.edu.de.primary",
             "language:de",
             "language:en"
         ],
@@ -54,10 +51,8 @@
     },
     {
         "id": 8567,
-        "content": [
-            "receipt"
-        ],
         "tags": [
+            "content:x.edu.de.secondary",
             "language:de"
         ],
         "structures": [

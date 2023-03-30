@@ -1,0 +1,26 @@
+{
+    "language": [
+        "language:DE",
+        "language:EN"
+    ],
+    "content": {
+        "content:edu": {},
+        "content:x": {},
+        "content:x.edu.de": {},
+        "content:x.edu.de.pre-primary": {},
+        "content:x.edu.de.primary": {},
+        "content:x.edu.de.secondary": {},
+        "content:x.edu.de.secondary.admission": {},
+        "content:x.edu.de.technical": {},
+        "content:x.edu.de.vocational": {},
+        "content:x.edu.de.higher": {},
+        "content:x.edu.de.higher.admission": {},
+        "content:x.edu.de.higher.term": {},
+        "content:x.edu.de.higher.degree": {},
+        "content:x.edu.de.higher.degree.bachelor": {},
+        "content:x.edu.de.higher.degree.bachelor.ofScience": {},
+        "content:x.edu.de.higher.degree.bachelor.ofArts": {},
+        "content:x.edu.de.higher.degree.master": {},
+        "content:x.edu.de.adult": {}
+    }
+}
